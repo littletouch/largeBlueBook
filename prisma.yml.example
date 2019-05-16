@@ -1,0 +1,2 @@
+endpoint: http://${host:port}
+datamodel: datamodel.prisma
